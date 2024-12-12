@@ -1,3 +1,4 @@
 # PGenCert
-
-<embed src="stepik-certificate-58852-de0f268.pdf" width="800px" height="2100px" />
+Сертификат в репо [тык](path/to/your/file.pdf).
+Сертификат на степике
+https://stepik.org/cert/2641486
